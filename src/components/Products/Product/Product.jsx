@@ -17,7 +17,7 @@ const Product = ({ product }) => { // Destructure the "product" prop
       </div>
       <div className="prod-details">
         <span className="name">{product.title}</span>
-        <span className="price">${product.price}</span>
+        <span className="price">$ {product.price}</span>
       </div>
     </div>
   );

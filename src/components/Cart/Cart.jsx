@@ -10,7 +10,6 @@ import "./Cart.scss";
 
 const Cart = () => {
   const { cartItems, setShowCart, cartSubTotal } = useContext(Context);
-  console.log(cartItems)
   const checkout = async () => {
     try {
       const response = await axios.post('http://localhost:3000/checkout', { items: cartItems });
