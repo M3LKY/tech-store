@@ -12,7 +12,7 @@ const Cart = () => {
   const { cartItems, setShowCart, cartSubTotal } = useContext(Context);
   const checkout = async () => {
     try {
-      const response = await axios.post('http://localhost:3000/checkout', { items: cartItems });
+      const response = await axios.post('https://server-tech-store.onrender.com', { items: cartItems });
       const { sessionId } = response.data;
 
       const stripe = await loadStripe('pk_test_51N8QpmHaY9qo5pUxXwCOVYCnS9qMjgytbJkVq1yustxMJfYnR2FUWfcaEVporrnWPW0iU32QK1af97PLFj5Hyp1g00vJ4rIaOa');
