@@ -1,0 +1,572 @@
+{
+    "products":[
+       {
+          "id": "price_1NI8O2HaY9qo5pUxwviHV9Y5",
+          "title":"iPhone 14 Pro",
+          "description":"The ultimate iPhone with a stunning 6.7-inch ProMotion display, a powerful A16 Bionic chip, and a pro camera system with 4x optical zoom and cinematic video.",
+          "price":999.00,
+          "discountPercentage":2.92,
+          "rating":4.92,
+          "stock":54,
+          "brand":"Golden",
+          "category":"apple",
+          "thumbnail":"https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-hero-220907.jpg.news_app_ed.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/30/1.jpg",
+             "https://i.dummyjson.com/data/products/30/2.jpg",
+             "https://i.dummyjson.com/data/products/30/3.jpg",
+             "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
+          ]
+       },
+       {
+          "id": "price_1NI8QXHaY9qo5pUxmxFur06x",
+          "title":"Razer Blade 15 Advanced",
+          "description":"The ultimate gaming laptop with a 15.6-inch QHD 240Hz display, an 11th Gen Intel Core i7 processor, and an NVIDIA GeForce RTX 3080 graphics card.",
+          "price":2599.99,
+          "discountPercentage":11.02,
+          "rating":4.57,
+          "stock":83,
+          "brand":"Apple",
+          "category":"razer",
+          "thumbnail":"https://theaureview.com/wp-content/uploads/2020/01/dims-1-e1560462630769.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/6/1.png",
+             "https://i.dummyjson.com/data/products/6/2.jpg",
+             "https://i.dummyjson.com/data/products/6/3.png",
+             "https://i.dummyjson.com/data/products/6/4.jpg"
+          ]
+       },
+       {
+          "id": "price_1NI8T0HaY9qo5pUxEqrbvS43",
+          "title":"MSI Aegis RS Gaming Desktop PC",
+          "description":"A powerful gaming desktop with an Intel Core i7-12700KF processor, an NVIDIA GeForce RTX 3060 Ti graphics card, 16GB of memory, and 1TB of NVMe SSD storage.",
+          "price":1292.73,
+          "discountPercentage":17.94,
+          "rating":4.44,
+          "stock":34,
+          "brand":"Apple",
+          "category":"msi",
+          "thumbnail":"https://www.digitaltrends.com/wp-content/uploads/2022/02/msi-aegis-rs-12-review-19.jpg?p=1",
+          "images":[
+             "https://i.dummyjson.com/data/products/2/1.jpg",
+             "https://i.dummyjson.com/data/products/2/2.jpg",
+             "https://i.dummyjson.com/data/products/2/3.jpg",
+             "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ]
+       },
+       {
+         "id": "price_1NI8TVHaY9qo5pUx5ZOaQVel",
+         "title":"Asus ROG Swift OLED PG27AQDM",
+         "description":"A gaming monitor with a 27-inch QHD OLED panel, 240Hz refresh rate, 0.03ms response time, G-SYNC compatible, anti-glare coating, and custom heatsink.",
+         "price":999.00,
+         "discountPercentage":15.58,
+         "rating":4.41,
+         "stock":17,
+         "brand":"Flying Wooden",
+         "category":"asus",
+         "thumbnail":"https://dlcdnrog.asus.com/rog/media/1672711969695.webp",
+         "images":[
+            "https://i.dummyjson.com/data/products/27/1.jpg",
+            "https://i.dummyjson.com/data/products/27/2.jpg",
+            "https://i.dummyjson.com/data/products/27/3.jpg",
+            "https://i.dummyjson.com/data/products/27/4.jpg",
+            "https://i.dummyjson.com/data/products/27/thumbnail.webp"
+         ]
+      },
+       {
+          "id":"price_1NI8W1HaY9qo5pUx3RjeCOLZ",
+          "title":"Razer Blade Pro 17",
+          "description":"The desktop in your laptop with a 17.3-inch FHD 360Hz display, an 11th Gen Intel Core i7 processor, and an NVIDIA GeForce RTX 3070 graphics card.",
+          "price":2299.99,
+          "discountPercentage":17.91,
+          "rating":4.3,
+          "stock":123,
+          "brand":"OPPO",
+          "category":"razer",
+          "thumbnail":"https://www.pcworld.com/wp-content/uploads/2023/04/Lead-6.jpg?quality=50&strip=all&w=1024",
+          "images":[
+             "https://i.dummyjson.com/data/products/4/1.jpg",
+             "https://i.dummyjson.com/data/products/4/2.jpg",
+             "https://i.dummyjson.com/data/products/4/3.jpg",
+             "https://i.dummyjson.com/data/products/4/4.jpg",
+             "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8WyHaY9qo5pUxdQBKObpZ",
+          "title":"MSI Titan GT77 HX 13V",
+          "description":"The ultimate gaming laptop with a 17.3-inch 4K display, a 13th Gen Intel Core i9 processor, and an NVIDIA GeForce RTX 4090 graphics card.",
+          "price":3999.99,
+          "discountPercentage":10.58,
+          "rating":4.09,
+          "stock":32,
+          "brand":"Huawei",
+          "category":"msi",
+          "thumbnail":"https://beebom.com/wp-content/uploads/2023/02/MSI-Titan-GT77-HX-review.jpg?w=730&h=487&crop=1&quality=75",
+          "images":[
+             "https://i.dummyjson.com/data/products/5/1.jpg",
+             "https://i.dummyjson.com/data/products/5/2.jpg",
+             "https://i.dummyjson.com/data/products/5/3.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8YKHaY9qo5pUxMTbuv6KW",
+          "title":"MacBook Air 15",
+          "description":"The thinnest and lightest MacBook ever with a stunning 15-inch Retina display, an M2 chip with Neural Engine, and up to 18 hours of battery life.",
+          "price":1299,
+          "discountPercentage":4.15,
+          "rating":4.25,
+          "stock":50,
+          "brand":"Samsung",
+          "category":"apple",
+          "thumbnail":"https://images.macrumors.com/t/9Jk4bQyyVbFsigZE7SgmTZsQOCE=/2500x/article-new/2022/06/MacBook-Air-Multiple-Sizes-Feature.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/7/1.jpg",
+             "https://i.dummyjson.com/data/products/7/2.jpg",
+             "https://i.dummyjson.com/data/products/7/3.jpg",
+             "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8Z2HaY9qo5pUxloKYLJpM",
+          "title":"Razer Book 13",
+          "description":"The productivity powerhouse with a 13.4-inch touch display, an 11th Gen Intel Core i5 processor, and an Intel Iris Xe graphics card.",
+          "price":1199.99,
+          "discountPercentage":8.14,
+          "rating":4.59,
+          "stock":61,
+          "brand":"Fog Scent Xpressio",
+          "category":"razer",
+          "thumbnail":"https://www.techspot.com/articles-info/2223/images/razer-book-15.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/13/1.jpg",
+             "https://i.dummyjson.com/data/products/13/2.png",
+             "https://i.dummyjson.com/data/products/13/3.jpg",
+             "https://i.dummyjson.com/data/products/13/4.jpg",
+             "https://i.dummyjson.com/data/products/13/thumbnail.webp"
+          ]
+       },
+       
+       {
+         "id":"price_1NI8ZrHaY9qo5pUxGGozb6sN",
+         "title":"iPad Pro",
+         "description":"The most powerful iPad ever with a stunning Liquid Retina display, an M2 chip with Neural Engine, and a pro camera system with LiDAR Scanner and Center Stage.",
+         "price":799,
+         "discountPercentage":15.46,
+         "rating":4.09,
+         "stock":36,
+         "brand":"Samsung",
+         "category":"apple",
+         "thumbnail":"https://www.apple.com/v/ipad-pro/am/images/overview/hero/hero_combo__fcqcc3hbzjyy_large.jpg",
+         "images":[
+            "https://i.dummyjson.com/data/products/3/1.jpg"
+         ]
+      },
+       {
+         "id":"price_1NI8anHaY9qo5pUxetJ6pe38",
+         "title":"MSI Aegis R Gaming Desktop PC",
+         "description":"A compact gaming desktop with an Intel Core i7-10700F processor, an NVIDIA GeForce RTX 3060 graphics card, 16GB of memory, and 1TB of SSD storage.",
+         "price":1499.99,
+         "discountPercentage":13.31,
+         "rating":4.83,
+         "stock":110,
+         "brand":"L'Oreal Paris",
+         "category":"msi",
+         "thumbnail":"https://www.digitaltrends.com/wp-content/uploads/2022/02/msi-aegis-rs-12-review-19.jpg?resize=1200%2C630&p=1",
+         "images":[
+            "https://i.dummyjson.com/data/products/16/1.png",
+            "https://i.dummyjson.com/data/products/16/2.webp",
+            "https://i.dummyjson.com/data/products/16/3.jpg",
+            "https://i.dummyjson.com/data/products/16/4.jpg",
+            "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
+         ]
+      },
+       {
+          "id":"price_1NI8bLHaY9qo5pUxWvQzoND8",
+          "title":"MacBook Pro 16",
+          "description":"The most powerful MacBook Pro ever with a brilliant 16-inch Liquid Retina XDR display, an M1 Max or M1 Ultra chip with Neural Engine, and up to 10 hours of battery life.",
+          "price":2499,
+          "discountPercentage":6.18,
+          "rating":4.43,
+          "stock":89,
+          "brand":"HP Pavilion",
+          "category":"apple",
+          "thumbnail":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-spacegray-select-202301?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1671304673202",
+          "images":[
+             "https://i.dummyjson.com/data/products/10/1.jpg",
+             "https://i.dummyjson.com/data/products/10/2.jpg",
+             "https://i.dummyjson.com/data/products/10/3.jpg",
+             "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
+          ]
+       },
+       {
+          "id":"price_1NI8cDHaY9qo5pUxacBoHhgi",
+          "title":"Razer Huntsman V2 Analog",
+          "description":"The keyboard with adjustable actuation and analog input for ultimate control and customization.",
+          "price":249.99,
+          "discountPercentage":8.4,
+          "rating":4.26,
+          "stock":65,
+          "brand":"Impression of Acqua Di Gio",
+          "category":"razer",
+          "thumbnail":"https://assets2.razerzone.com/images/pnx.assets/e266e01f82fe98bee377bf7295cae8af/razer-huntsman-v2-analog-768x460-hero-mobile.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/11/1.jpg",
+             "https://i.dummyjson.com/data/products/11/2.jpg",
+             "https://i.dummyjson.com/data/products/11/3.jpg",
+             "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8cvHaY9qo5pUxXV40Mto9",
+          "title":"Apple Watch Ultra",
+          "description":"The most advanced Apple Watch ever with a rugged design, an always-on Retina display, an ECG app, blood oxygen monitoring, and built-in cellular connectivity.",
+          "price":799,
+          "discountPercentage":15.66,
+          "rating":4,
+          "stock":52,
+          "brand":"Royal_Mirage",
+          "category":"apple",
+          "thumbnail":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO?wid=750&hei=712&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1683224241054",
+          "images":[
+             "https://i.dummyjson.com/data/products/12/1.jpg",
+             "https://i.dummyjson.com/data/products/12/2.jpg",
+             "https://i.dummyjson.com/data/products/12/3.png",
+             "https://i.dummyjson.com/data/products/12/4.jpg",
+             "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
+          ]
+       },
+       {
+         "id":"price_1NI8ddHaY9qo5pUx7iriYSry",
+         "title":"iPad",
+         "description":"The most popular iPad with a 10.2-inch Retina display, an A13 Bionic chip with Neural Engine, and support for Apple Pencil and Smart Keyboard.",
+         "price":449,
+         "discountPercentage":12.96,
+         "rating":4.69,
+         "stock":94,
+         "brand":"Apple",
+         "category":"apple",
+         "thumbnail":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-unselect-gallery-2-202212_FMT_WHH?wid=1280&hei=720&fmt=p-jpg&qlt=95&.v=1667594383218",
+         "images":[
+            "https://i.dummyjson.com/data/products/1/1.jpg",
+            "https://i.dummyjson.com/data/products/1/2.jpg",
+            "https://i.dummyjson.com/data/products/1/3.jpg",
+            "https://i.dummyjson.com/data/products/1/4.jpg",
+            "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+         ]
+      },
+       {
+          "id":"price_1NI8eIHaY9qo5pUx7Cctv7Wp",
+          "title":"Razer DeathAdder V2 Pro",
+          "description":"The wireless ergonomic mouse with Razer HyperSpeed technology, Razer Focus+ optical sensor, and Razer Chroma RGB lighting.",
+          "price":129.99,
+          "discountPercentage":15.6,
+          "rating":4.21,
+          "stock":114,
+          "brand":"Al Munakh",
+          "category":"razer",
+          "thumbnail":"https://assets3.razerzone.com/pW_76Z0NqI1Geg3QOcCD4tysbWA=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhba%2Fhea%2F9086247895070%2FdeathadderV2pro-gallery--hero-1500x1000.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/14/1.jpg",
+             "https://i.dummyjson.com/data/products/14/2.jpg",
+             "https://i.dummyjson.com/data/products/14/3.jpg",
+             "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8euHaY9qo5pUx1NCbGfGs",
+          "title":"MSI MPG Velox Gaming Desktop PC",
+          "description":"Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
+          "price":2499.99,
+          "discountPercentage":10.99,
+          "rating":4.7,
+          "stock":105,
+          "brand":"Lord - Al-Rehab",
+          "category":"msi",
+          "thumbnail":"https://basic-tutorials.com/wp-content/uploads/2021/11/20211121_154054625_iOS-scaled.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/15/1.jpg",
+             "https://i.dummyjson.com/data/products/15/2.jpg",
+             "https://i.dummyjson.com/data/products/15/3.jpg",
+             "https://i.dummyjson.com/data/products/15/4.jpg",
+             "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8fVHaY9qo5pUx63fwXOX3",
+          "title":"Mac Studio",
+          "description":"The ultimate Mac for creative professionals with a stunning 32-inch Retina XDR display, an M2 Max or M2 Ultra chip with Neural Engine, and up to 64GB of memory and 8TB of storage.",
+          "price":1999,
+          "discountPercentage":11.83,
+          "rating":4.54,
+          "stock":96,
+          "brand":"Infinix",
+          "category":"apple",
+          "thumbnail":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-studio-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684345161143",
+          "images":[
+             "https://i.dummyjson.com/data/products/9/1.jpg",
+             "https://i.dummyjson.com/data/products/9/2.png",
+             "https://i.dummyjson.com/data/products/9/3.png",
+             "https://i.dummyjson.com/data/products/9/4.jpg",
+             "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8gMHaY9qo5pUxldosjah6",
+          "title":"Razer Nari Ultimate",
+          "description":"The gaming headset with Razer HyperSense haptic feedback, THX Spatial Audio, and a cooling gel-infused cushion.",
+          "price":199.99,
+          "discountPercentage":4.09,
+          "rating":4.52,
+          "stock":78,
+          "brand":"Hemani Tea",
+          "category":"razer",
+          "thumbnail":"https://m.media-amazon.com/images/S/aplus-media/vc/25005b82-68c5-4884-b601-3814d5906e6f._CR0,0,600,450_PT0_SX600__.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/17/1.jpg",
+             "https://i.dummyjson.com/data/products/17/2.jpg",
+             "https://i.dummyjson.com/data/products/17/3.jpg",
+             "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8gtHaY9qo5pUxO5cSK7ZF",
+          "title":"Razer Basilisk Ultimate",
+          "description":"The wireless gaming mouse with Razer HyperSpeed technology, Razer Focus+ optical sensor, and 11 programmable buttons.",
+          "price":169.99,
+          "discountPercentage":13.1,
+          "rating":4.56,
+          "stock":88,
+          "brand":"Dermive",
+          "category":"razer",
+          "currency": "usd",
+          "thumbnail":"https://assets2.razerzone.com/images/pnx.assets/0523a80c613c52ee42d3c0ba2bb80ac9/basilisk-ultimate-usp5-mobile.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/18/1.jpg",
+             "https://i.dummyjson.com/data/products/18/2.jpg",
+             "https://i.dummyjson.com/data/products/18/3.jpg",
+             "https://i.dummyjson.com/data/products/18/4.jpg",
+             "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8hOHaY9qo5pUxv4YsmnpR",
+          "title":"MSI Trident X Plus Gaming Desktop PC",
+          "description":"A slim gaming desktop with an Intel Core i7-9700K processor, an NVIDIA GeForce RTX 2070 Super graphics card, 16GB of memory, and 512GB of SSD + 2TB HDD storage.",
+          "price":1999.99,
+          "discountPercentage":10.68,
+          "rating":4.42,
+          "stock":54,
+          "brand":"ROREC White Rice",
+          "category":"msi",
+          "currency": "usd",
+          "thumbnail":"https://storage-asset.msi.com/global/picture/image/feature/desktop/TridentX/trident-x-glass-base.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/19/1.jpg",
+             "https://i.dummyjson.com/data/products/19/2.jpg",
+             "https://i.dummyjson.com/data/products/19/3.png",
+             "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8htHaY9qo5pUx9m3DDazF",
+          "title":"MSI Codex R Gaming Desktop PC",
+          "description":"An affordable gaming desktop with an Intel Core i5-10400F processor, an NVIDIA GeForce GTX 1660 Super graphics card, 8GB of memory, and 512GB of SSD storage.",
+          "price":899.99,
+          "discountPercentage":16.99,
+          "rating":4.06,
+          "stock":140,
+          "brand":"Fair & Clear",
+          "currency": "usd",
+          "category":"msi",
+          "thumbnail":"https://storage-asset.msi.com/us/picture/feature/desktop/codex_r/kv-rgb.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/20/1.jpg",
+             "https://i.dummyjson.com/data/products/20/2.jpg",
+             "https://i.dummyjson.com/data/products/20/3.jpg",
+             "https://i.dummyjson.com/data/products/20/4.jpg",
+             "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8iTHaY9qo5pUx54yY6KpC",
+          "title":"MSI Vector GP77 HX 13V",
+          "description":"The versatile gaming laptop with a 17.3-inch FHD 144Hz display, a 13th Gen Intel Core i5 processor, and an NVIDIA GeForce RTX A370M graphics card.",
+          "price":1899.99,
+          "discountPercentage":4.81,
+          "rating":4.44,
+          "stock":133,
+          "brand":"Saaf & Khaas",
+          "category":"msi",
+          "currency": "usd",
+          "thumbnail":"https://storage-asset.msi.com/global/picture/image/feature/nb/gp/GP77/gpukv.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/21/1.png",
+             "https://i.dummyjson.com/data/products/21/2.jpg",
+             "https://i.dummyjson.com/data/products/21/3.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8iuHaY9qo5pUxO176vB8d",
+          "title":"MSI Stealth 16 Studio A13V",
+          "description":"The portable workstation with a 16-inch QHD+ touch display, a 13th Gen Intel Core i7 processor, and an NVIDIA GeForce RTX A370M graphics card.",
+          "price":2499.99,
+          "discountPercentage":15.58,
+          "rating":4.57,
+          "stock":146,
+          "brand":"Bake Parlor Big",
+          "currency": "usd",
+          "category":"msi",
+          "thumbnail":"https://cdn.mwave.com.au/images/400/msi_stealth_16studio_16_240hz_qhd_laptop_i713700h_32gb_2tb_rtx4070_w11p_ac60587_62184.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/22/1.jpg",
+             "https://i.dummyjson.com/data/products/22/2.jpg",
+             "https://i.dummyjson.com/data/products/22/3.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8jUHaY9qo5pUxcS9PbhkR",
+          "title":"Asus ROG Zephyrus G14",
+          "description":"A compact gaming laptop with a 14-inch QHD 165Hz display, an AMD Ryzen 9 processor, an NVIDIA GeForce RTX 4080 graphics card, 16GB of memory, and 1TB of SSD storage.",
+          "price":2499.99,
+          "discountPercentage":8.04,
+          "rating":4.85,
+          "stock":26,
+          "currency": "usd",
+          "brand":"Baking Food Items",
+          "category":"asus",
+          "thumbnail":"https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Front_view_of_the_Moonlight_White_ROG_Zephyrus_G14_with_the_ROG_Fearless_Eye_logo_on_screen44.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/23/1.jpg",
+             "https://i.dummyjson.com/data/products/23/2.jpg",
+             "https://i.dummyjson.com/data/products/23/3.jpg",
+             "https://i.dummyjson.com/data/products/23/4.jpg",
+             "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8l3HaY9qo5pUxDVjvOh9f",
+          "title":"Asus ROG Zephyrus M16",
+          "description":"A premium gaming laptop with a 16-inch QHD+ IPS display, an Intel Core i9 processor, an NVIDIA GeForce RTX 4090 graphics card, 32GB of memory, and 2TB of SSD storage.",
+          "price":3499.99,
+          "discountPercentage":16.8,
+          "rating":4.94,
+          "currency": "usd",
+          "stock":113,
+          "brand":"fauji",
+          "category":"asus",
+          "thumbnail":"https://s.yimg.com/uu/api/res/1.2/YyPE36Ivt4hIt2WMNQ96yw--~B/aD0xMjAwO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/48570f90-ccdc-11ed-9fcd-c7807faf175b.cf.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/24/1.jpg",
+             "https://i.dummyjson.com/data/products/24/2.jpg",
+             "https://i.dummyjson.com/data/products/24/3.jpg",
+             "https://i.dummyjson.com/data/products/24/4.jpg",
+             "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8ljHaY9qo5pUxJiiaAe6v",
+          "title":"Asus ROG Falchion NX",
+          "description":"A wireless gaming keyboard with mechanical switches, RGB lighting, touch panel, and up to 400 hours of battery life.",
+          "price":149.99,
+          "discountPercentage":13.58,
+          "rating":4.87,
+          "stock":47,
+          "brand":"Dry Rose",
+          "currency": "usd",
+          "category":"asus",
+          "thumbnail":"https://cdn.mos.cms.futurecdn.net/G4rL94oN2BNUaWz3Nmt6cm.png",
+          "images":[
+             "https://i.dummyjson.com/data/products/25/1.png",
+             "https://i.dummyjson.com/data/products/25/2.jpg",
+             "https://i.dummyjson.com/data/products/25/3.png",
+             "https://i.dummyjson.com/data/products/25/4.jpg",
+             "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8mkHaY9qo5pUxr3buJG84",
+          "title":"Asus G733PZ",
+          "description":"A powerful gaming laptop with a 17.3-inch FHD 300Hz display, an AMD Ryzen 9 processor, an NVIDIA GeForce RTX 3080 graphics card, 32GB of memory, and 1TB of SSD storage.",
+          "price":2899.99,
+          "discountPercentage":17.86,
+          "rating":4.08,
+          "stock":131,
+          "brand":"Boho Decor",
+          "currency": "usd",
+          "category":"asus",
+          "thumbnail":"https://www.digitaltrends.com/wp-content/uploads/2023/03/asus-rog-strix-scar-review-08.jpg?resize=1200%2C630&p=1",
+          "images":[
+             "https://i.dummyjson.com/data/products/26/1.jpg",
+             "https://i.dummyjson.com/data/products/26/2.jpg",
+             "https://i.dummyjson.com/data/products/26/3.jpg",
+             "https://i.dummyjson.com/data/products/26/4.jpg",
+             "https://i.dummyjson.com/data/products/26/5.jpg",
+             "https://i.dummyjson.com/data/products/26/thumbnail.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8nHHaY9qo5pUxqcbPFYqg",
+          "title":"iPad Air",
+          "description":"The most versatile iPad with a gorgeous 10.9-inch Liquid Retina display, an A15 Bionic chip with Neural Engine, and a Touch ID sensor integrated into the top button.",
+          "price":599,
+          "discountPercentage":10.23,
+          "rating":4.43,
+          "stock":68,
+          "brand":"Microsoft Surface",
+          "category":"apple",
+          "currency": "usd",
+          "thumbnail":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-ipad-air-wifi-gold-2021?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1644268571040",
+          "images":[
+             "https://i.dummyjson.com/data/products/8/1.jpg",
+             "https://i.dummyjson.com/data/products/8/2.jpg",
+             "https://i.dummyjson.com/data/products/8/3.jpg",
+             "https://i.dummyjson.com/data/products/8/4.jpg",
+             "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8npHaY9qo5pUxSIZUkXgZ",
+          "title":"Asus TUF Gaming VG27AQL1A",
+          "description":"A gaming monitor with a 27-inch QHD IPS panel, 170Hz refresh rate, 1ms response time, FreeSync Premium, HDR10 support, and ergonomic stand.",
+          "price":499.00,
+          "discountPercentage":16.49,
+          "rating":4.82,
+          "stock":54,
+          "brand":"LED Lights",
+          "category":"asus",
+          "currency": "usd",
+          "thumbnail":"https://dlcdnimgs.asus.com/websites/global/products/yt4zood85serdoij/images/bg-header-m.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/28/1.jpg",
+             "https://i.dummyjson.com/data/products/28/2.jpg",
+             "https://i.dummyjson.com/data/products/28/3.png",
+             "https://i.dummyjson.com/data/products/28/4.jpg",
+             "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
+          ]
+       },
+       {
+          "id":"price_1NI8oQHaY9qo5pUxdd6AWWhg",
+          "title":"Asus ProArt PA278QV",
+          "description":"A professional monitor with a 27-inch QHD IPS panel, 100% sRGB color gamut, hardware calibration, ergonomic stand, and built-in speakers.",
+          "price":299.00,
+          "discountPercentage":15.34,
+          "rating":4.44,
+          "stock":7,
+          "currency": "usd", 
+          "brand":"luxury palace",
+          "category":"asus",
+          "thumbnail":"https://media.karousell.com/media/photos/products/2021/12/12/monitor_asus_proart_display_pa_1639316512_154fcbaf_progressive.jpg",
+          "images":[
+             "https://i.dummyjson.com/data/products/29/1.jpg",
+             "https://i.dummyjson.com/data/products/29/2.jpg",
+             "https://i.dummyjson.com/data/products/29/3.webp",
+             "https://i.dummyjson.com/data/products/29/4.webp",
+             "https://i.dummyjson.com/data/products/29/thumbnail.webp"
+          ]
+       }
+    ],
+    "total":100,
+    "skip":0,
+    "limit":30
+  }

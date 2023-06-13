@@ -1,0 +1,109 @@
+@import "../../../css-config/mixins.scss";
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:ital,wght@0,400;0,700;1,400&display=swap');
+
+
+.newsletter-section {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    background-image: url("https://www.hdwallpapers.in/download/technology_circuit_board_hd_technology-1920x1080.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    .newsletter-content {
+        width: fit-content;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0 auto;
+        text-align: center;
+
+        .text {
+            margin-bottom: 20px;
+            font-size: 14px;
+            color: rgba(0, 0, 0, 0.5);
+        }
+
+        .small-text {
+            margin-bottom: 15px;
+            text-transform: uppercase;
+            color: rgba(0, 0, 0, 0.5);
+        }
+
+        .big-text {
+            margin-bottom: 20px;
+            font-size: 22px;
+            line-height: 30px;
+            font-weight: 500;
+            text-transform: uppercase;
+            padding: 0 30px;
+            color: aliceblue;
+            font-family: 'Roboto Slab', sans-serif;
+            font-style: italic;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+            @include md {
+                font-size: 28px;
+            }
+        }
+
+        .form {
+            display: flex;
+            gap: 5px;
+            margin-bottom: 10px;
+
+            input {
+                width: 200px;
+                height: 40px;
+                border-radius: 0;
+                border: 1px solid rgba(0, 0, 0, 0.2);
+                padding: 0 12px;
+                font-size: 16px;
+                outline: none;
+                border-radius: 5px;
+
+                @include md {
+                    width: 300px;
+                }
+            }
+
+            button {
+                outline: 0;
+                border: 0;
+                height: 40px;
+                width: 100px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                cursor: pointer;
+                font-size: 16px;
+                color: white;
+                background: #6103b3;
+                border-bottom: 3px solid #000000;
+                border-radius: 5px;
+                @include md {
+                    width: 90px;
+                    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+                }
+            }
+        }
+
+        .social-icons {
+            display: flex;
+            gap: 10px;
+
+            .icon {
+                width: 30px;
+                height: 30px;
+                background: rgba(255, 255, 255);
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                color: rgb(0, 0, 0);
+            }
+        }
+    }
+}
