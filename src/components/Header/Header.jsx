@@ -34,7 +34,7 @@ const Header = () => {
             >
                 <div className="header-content">
                     <div className="left">
-                        < TfiGame onClick={() => navigate("/")} />
+                        < TfiGame onClick={() => navigate("/tech-store")} />
                     </div>
                     <div className="right">
                         <TbSearch 

@@ -9,7 +9,7 @@ const Product = ({ product }) => { // Destructure the "product" prop
     <div
       className="product-card"
       onClick={() => {
-        navigate("/product/" + product.id); // Access the "id" directly from the "product" prop
+        navigate("/tech-store/product/" + product.id); // Access the "id" directly from the "product" prop
       }}
     >
       <div className="thumbnail">

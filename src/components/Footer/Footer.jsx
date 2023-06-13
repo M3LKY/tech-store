@@ -33,10 +33,10 @@ const Footer = () => {
                 </div>
                 <div className="col">
                     <div className="title">Categories</div>
-                    <span className="text" onClick={()=>{navigate('/category/apple')}}>A p p l e</span>
-                    <span className="text" onClick={()=>{navigate('/category/msi')}}>M s i</span>
-                    <span className="text" onClick={()=>{navigate('/category/asus')}}>A s u s</span>
-                    <span className="text" onClick={()=>{navigate('/category/razer')}}>R a z e r</span>
+                    <span className="text" onClick={()=>{navigate('/tech-store/category/apple')}}>A p p l e</span>
+                    <span className="text" onClick={()=>{navigate('/tech-store/category/msi')}}>M s i</span>
+                    <span className="text" onClick={()=>{navigate('/tech-store/category/asus')}}>A s u s</span>
+                    <span className="text" onClick={()=>{navigate('/tech-store/category/razer')}}>R a z e r</span>
                 </div>
                 <div className="col">
                 </div>

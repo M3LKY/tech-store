@@ -29,7 +29,7 @@ const Category = () => {
                     <div
                         key={item.id}
                         className="category"
-                        onClick={() => navigate(`/category/${item.id}`)}
+                        onClick={() => navigate(`/tech-store/category/${item.id}`)}
                     >
                         <img src={item.img} />
                     </div>
