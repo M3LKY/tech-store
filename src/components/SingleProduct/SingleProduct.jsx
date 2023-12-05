@@ -1,7 +1,7 @@
 import { useContext, useState, useEffect } from "react";
 import { Context } from "../../Context/context";
 import { useParams } from "react-router-dom";
-import products from '../../data/products.json'
+import {products} from '../../data/products.js'
 import RelatedProducts from "./RelatedProducts/RelatedProducts";
 import {
     FaFacebookF,

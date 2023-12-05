@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React, { useContext, useState } from "react";
 import { MdClose } from "react-icons/md";
 import { BsCartX } from "react-icons/bs";
 import { Context } from "../../Context/context";
@@ -10,15 +10,24 @@ import "./Cart.scss";
 
 const Cart = () => {
   const { cartItems, setShowCart, cartSubTotal } = useContext(Context);
+  const [loading, setLoading] = useState(false);
+
   const checkout = async () => {
     try {
+      // Set loading to true when the checkout process starts
+      setLoading(true);
+
       const response = await axios.post('https://server-tech-store.onrender.com/checkout', { items: cartItems });
       const { sessionId } = response.data;
 
       const stripe = await loadStripe('pk_test_51N8QpmHaY9qo5pUxXwCOVYCnS9qMjgytbJkVq1yustxMJfYnR2FUWfcaEVporrnWPW0iU32QK1af97PLFj5Hyp1g00vJ4rIaOa');
       await stripe.redirectToCheckout({ sessionId });
+
+      // Set loading back to false when the checkout process is completed
+      setLoading(false);
     } catch (error) {
-      console.log(error)
+      console.error('Error during checkout:', error);
+      setLoading(false);
     }
   };
 
@@ -44,7 +53,6 @@ const Cart = () => {
           <>
             <div className="cart-items-container">
               <div className="cart-items-scroll">
-
                 <CartItem />
               </div>
             </div>
@@ -54,7 +62,9 @@ const Cart = () => {
                 <span className="text total">$ {cartSubTotal.toFixed(2)}</span>
               </div>
               <div className="button">
-                <button className="checkout-cta" onClick={checkout}>Checkout</button>
+                <button className="checkout-cta" onClick={checkout} disabled={loading}>
+                  {loading ? 'Processing...' : 'Checkout'}
+                </button>
               </div>
             </div>
           </>

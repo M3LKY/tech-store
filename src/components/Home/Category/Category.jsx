@@ -1,13 +1,16 @@
 import { useNavigate } from "react-router-dom";
 import "./Category.scss";
-import msi from '../../../assets/msi.jpg'
+import msi from '/msi.jpg'
+import asuslog from "/asuslog.jpg"
+import razerlog from "/razerlog.jpg"
+import iphonelog from "/iphonelog.jpg"
 
 const Category = () => {
     const navigate = useNavigate();
     const categories = [
         {
             id: 'apple',
-            img: 'https://i.pinimg.com/736x/b9/7e/5a/b97e5a9b044ee6c4012298cb2c45faf3.jpg'
+            img: iphonelog
         },
         {
             id: 'msi',
@@ -15,11 +18,11 @@ const Category = () => {
         },
         {
             id: 'asus',
-            img: 'https://w0.peakpx.com/wallpaper/976/385/HD-wallpaper-asus-logo-remastered.jpg'
+            img: asuslog
         },
         {
             id: 'razer',
-            img: 'https://rare-gallery.com/mocahbig/1412159-razer-computer-logo-dark-hd-4k-black.jpg'
+            img: razerlog
         },
     ]
     return (

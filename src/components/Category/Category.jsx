@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom";
 import Products from "../Products/Products";
-import products from '../../data/products.json';
+import {products} from '../../data/products.js';
 import "./Category.scss";
 import { useEffect } from "react";
 

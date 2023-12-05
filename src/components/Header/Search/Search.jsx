@@ -2,7 +2,7 @@ import React, { useContext, useState } from "react";
 import { MdClose } from "react-icons/md";
 import "./Search.scss";
 import { useNavigate } from "react-router-dom";
-import data from '../../../data/products.json'
+import {products} from '../../../data/products.js'
 const Search = ({ setSearchModal }) => {
     const [query, setQuery] = useState("");
     const navigate = useNavigate();
@@ -26,13 +26,13 @@ const Search = ({ setSearchModal }) => {
                 />
             </div>
             <div className="search-result-content">
-                {!data.products.length && (
+                {!products.products.length && (
                     <div className="start-msg">
                         Start typing to see products you are looking for.
                     </div>
                  )}
                 <div className="search-results">
-                    {data.products.filter((item) => {
+                    {products.products.filter((item) => {
                         if(query == ""){
                             return item;
                         }else if(item.title.toLowerCase().includes(query.toLowerCase())){

@@ -1,4 +1,4 @@
-{
+export const products = {
     "products":[
        {
           "id": "price_1NI8O2HaY9qo5pUxwviHV9Y5",
@@ -10,13 +10,8 @@
           "stock":54,
           "brand":"Golden",
           "category":"apple",
-          "thumbnail":"https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-hero-220907.jpg.news_app_ed.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/30/1.jpg",
-             "https://i.dummyjson.com/data/products/30/2.jpg",
-             "https://i.dummyjson.com/data/products/30/3.jpg",
-             "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
-          ]
+          "thumbnail":"/iphone 1.jpg",
+          "images":[]
        },
        {
           "id": "price_1NI8QXHaY9qo5pUxmxFur06x",
@@ -28,13 +23,8 @@
           "stock":83,
           "brand":"Apple",
           "category":"razer",
-          "thumbnail":"https://theaureview.com/wp-content/uploads/2020/01/dims-1-e1560462630769.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/6/1.png",
-             "https://i.dummyjson.com/data/products/6/2.jpg",
-             "https://i.dummyjson.com/data/products/6/3.png",
-             "https://i.dummyjson.com/data/products/6/4.jpg"
-          ]
+          "thumbnail":"/img2.jpg",
+          "images":[]
        },
        {
           "id": "price_1NI8T0HaY9qo5pUxEqrbvS43",
@@ -46,13 +36,8 @@
           "stock":34,
           "brand":"Apple",
           "category":"msi",
-          "thumbnail":"https://www.digitaltrends.com/wp-content/uploads/2022/02/msi-aegis-rs-12-review-19.jpg?p=1",
-          "images":[
-             "https://i.dummyjson.com/data/products/2/1.jpg",
-             "https://i.dummyjson.com/data/products/2/2.jpg",
-             "https://i.dummyjson.com/data/products/2/3.jpg",
-             "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
-          ]
+          "thumbnail":"/img3.webp",
+          "images":[]
        },
        {
          "id": "price_1NI8TVHaY9qo5pUx5ZOaQVel",
@@ -64,14 +49,8 @@
          "stock":17,
          "brand":"Flying Wooden",
          "category":"asus",
-         "thumbnail":"https://dlcdnrog.asus.com/rog/media/1672711969695.webp",
-         "images":[
-            "https://i.dummyjson.com/data/products/27/1.jpg",
-            "https://i.dummyjson.com/data/products/27/2.jpg",
-            "https://i.dummyjson.com/data/products/27/3.jpg",
-            "https://i.dummyjson.com/data/products/27/4.jpg",
-            "https://i.dummyjson.com/data/products/27/thumbnail.webp"
-         ]
+         "thumbnail":"/img4.webp",
+         "images":[]
       },
        {
           "id":"price_1NI8W1HaY9qo5pUx3RjeCOLZ",
@@ -83,14 +62,8 @@
           "stock":123,
           "brand":"OPPO",
           "category":"razer",
-          "thumbnail":"https://www.pcworld.com/wp-content/uploads/2023/04/Lead-6.jpg?quality=50&strip=all&w=1024",
-          "images":[
-             "https://i.dummyjson.com/data/products/4/1.jpg",
-             "https://i.dummyjson.com/data/products/4/2.jpg",
-             "https://i.dummyjson.com/data/products/4/3.jpg",
-             "https://i.dummyjson.com/data/products/4/4.jpg",
-             "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
-          ]
+          "thumbnail":"/img5.webp",
+          "images":[]
        },
        {
           "id":"price_1NI8WyHaY9qo5pUxdQBKObpZ",
@@ -102,12 +75,8 @@
           "stock":32,
           "brand":"Huawei",
           "category":"msi",
-          "thumbnail":"https://beebom.com/wp-content/uploads/2023/02/MSI-Titan-GT77-HX-review.jpg?w=730&h=487&crop=1&quality=75",
-          "images":[
-             "https://i.dummyjson.com/data/products/5/1.jpg",
-             "https://i.dummyjson.com/data/products/5/2.jpg",
-             "https://i.dummyjson.com/data/products/5/3.jpg"
-          ]
+          "thumbnail":"/img6.webp",
+          "images":[]
        },
        {
           "id":"price_1NI8YKHaY9qo5pUxMTbuv6KW",
@@ -119,13 +88,8 @@
           "stock":50,
           "brand":"Samsung",
           "category":"apple",
-          "thumbnail":"https://images.macrumors.com/t/9Jk4bQyyVbFsigZE7SgmTZsQOCE=/2500x/article-new/2022/06/MacBook-Air-Multiple-Sizes-Feature.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/7/1.jpg",
-             "https://i.dummyjson.com/data/products/7/2.jpg",
-             "https://i.dummyjson.com/data/products/7/3.jpg",
-             "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
-          ]
+          "thumbnail":"/img7.jpg",
+          "images":[]
        },
        {
           "id":"price_1NI8Z2HaY9qo5pUxloKYLJpM",
@@ -138,13 +102,7 @@
           "brand":"Fog Scent Xpressio",
           "category":"razer",
           "thumbnail":"https://www.techspot.com/articles-info/2223/images/razer-book-15.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/13/1.jpg",
-             "https://i.dummyjson.com/data/products/13/2.png",
-             "https://i.dummyjson.com/data/products/13/3.jpg",
-             "https://i.dummyjson.com/data/products/13/4.jpg",
-             "https://i.dummyjson.com/data/products/13/thumbnail.webp"
-          ]
+          "images":[]
        },
        
        {
@@ -157,10 +115,8 @@
          "stock":36,
          "brand":"Samsung",
          "category":"apple",
-         "thumbnail":"https://www.apple.com/v/ipad-pro/am/images/overview/hero/hero_combo__fcqcc3hbzjyy_large.jpg",
-         "images":[
-            "https://i.dummyjson.com/data/products/3/1.jpg"
-         ]
+         "thumbnail":"/ipad pro.jpg",
+         "images":[]
       },
        {
          "id":"price_1NI8anHaY9qo5pUxetJ6pe38",
@@ -172,14 +128,8 @@
          "stock":110,
          "brand":"L'Oreal Paris",
          "category":"msi",
-         "thumbnail":"https://www.digitaltrends.com/wp-content/uploads/2022/02/msi-aegis-rs-12-review-19.jpg?resize=1200%2C630&p=1",
-         "images":[
-            "https://i.dummyjson.com/data/products/16/1.png",
-            "https://i.dummyjson.com/data/products/16/2.webp",
-            "https://i.dummyjson.com/data/products/16/3.jpg",
-            "https://i.dummyjson.com/data/products/16/4.jpg",
-            "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
-         ]
+         "thumbnail":"/imgR.jpg",
+         "images":[]
       },
        {
           "id":"price_1NI8bLHaY9qo5pUxWvQzoND8",
@@ -191,13 +141,8 @@
           "stock":89,
           "brand":"HP Pavilion",
           "category":"apple",
-          "thumbnail":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16-spacegray-select-202301?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1671304673202",
-          "images":[
-             "https://i.dummyjson.com/data/products/10/1.jpg",
-             "https://i.dummyjson.com/data/products/10/2.jpg",
-             "https://i.dummyjson.com/data/products/10/3.jpg",
-             "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
-          ]
+          "thumbnail":"/img10.jpg",
+          "images":[]
        },
        {
           "id":"price_1NI8cDHaY9qo5pUxacBoHhgi",
@@ -209,13 +154,8 @@
           "stock":65,
           "brand":"Impression of Acqua Di Gio",
           "category":"razer",
-          "thumbnail":"https://assets2.razerzone.com/images/pnx.assets/e266e01f82fe98bee377bf7295cae8af/razer-huntsman-v2-analog-768x460-hero-mobile.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/11/1.jpg",
-             "https://i.dummyjson.com/data/products/11/2.jpg",
-             "https://i.dummyjson.com/data/products/11/3.jpg",
-             "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
-          ]
+          "thumbnail":"/img11.jpg",
+          "images":[]
        },
        {
           "id":"price_1NI8cvHaY9qo5pUxXV40Mto9",
@@ -227,14 +167,8 @@
           "stock":52,
           "brand":"Royal_Mirage",
           "category":"apple",
-          "thumbnail":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO?wid=750&hei=712&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1683224241054",
-          "images":[
-             "https://i.dummyjson.com/data/products/12/1.jpg",
-             "https://i.dummyjson.com/data/products/12/2.jpg",
-             "https://i.dummyjson.com/data/products/12/3.png",
-             "https://i.dummyjson.com/data/products/12/4.jpg",
-             "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
-          ]
+          "thumbnail":"/img12.jpg",
+          "images":[]
        },
        {
          "id":"price_1NI8ddHaY9qo5pUx7iriYSry",
@@ -246,14 +180,8 @@
          "stock":94,
          "brand":"Apple",
          "category":"apple",
-         "thumbnail":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-finish-unselect-gallery-2-202212_FMT_WHH?wid=1280&hei=720&fmt=p-jpg&qlt=95&.v=1667594383218",
-         "images":[
-            "https://i.dummyjson.com/data/products/1/1.jpg",
-            "https://i.dummyjson.com/data/products/1/2.jpg",
-            "https://i.dummyjson.com/data/products/1/3.jpg",
-            "https://i.dummyjson.com/data/products/1/4.jpg",
-            "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
-         ]
+         "thumbnail":"/img13.jpg",
+         "images":[]
       },
        {
           "id":"price_1NI8eIHaY9qo5pUx7Cctv7Wp",
@@ -265,13 +193,8 @@
           "stock":114,
           "brand":"Al Munakh",
           "category":"razer",
-          "thumbnail":"https://assets3.razerzone.com/pW_76Z0NqI1Geg3QOcCD4tysbWA=/1500x1000/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhba%2Fhea%2F9086247895070%2FdeathadderV2pro-gallery--hero-1500x1000.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/14/1.jpg",
-             "https://i.dummyjson.com/data/products/14/2.jpg",
-             "https://i.dummyjson.com/data/products/14/3.jpg",
-             "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
-          ]
+          "thumbnail":"/img14.jpg",
+          "images":[]
        },
        {
           "id":"price_1NI8euHaY9qo5pUx1NCbGfGs",
@@ -283,14 +206,8 @@
           "stock":105,
           "brand":"Lord - Al-Rehab",
           "category":"msi",
-          "thumbnail":"https://basic-tutorials.com/wp-content/uploads/2021/11/20211121_154054625_iOS-scaled.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/15/1.jpg",
-             "https://i.dummyjson.com/data/products/15/2.jpg",
-             "https://i.dummyjson.com/data/products/15/3.jpg",
-             "https://i.dummyjson.com/data/products/15/4.jpg",
-             "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
-          ]
+          "thumbnail":"/img15.jpg",
+          "images":[]
        },
        {
           "id":"price_1NI8fVHaY9qo5pUx63fwXOX3",
@@ -302,14 +219,8 @@
           "stock":96,
           "brand":"Infinix",
           "category":"apple",
-          "thumbnail":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-studio-select-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684345161143",
-          "images":[
-             "https://i.dummyjson.com/data/products/9/1.jpg",
-             "https://i.dummyjson.com/data/products/9/2.png",
-             "https://i.dummyjson.com/data/products/9/3.png",
-             "https://i.dummyjson.com/data/products/9/4.jpg",
-             "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
-          ]
+          "thumbnail":"/img16.jpg",
+          "images":[]
        },
        {
           "id":"price_1NI8gMHaY9qo5pUxldosjah6",
@@ -321,13 +232,8 @@
           "stock":78,
           "brand":"Hemani Tea",
           "category":"razer",
-          "thumbnail":"https://m.media-amazon.com/images/S/aplus-media/vc/25005b82-68c5-4884-b601-3814d5906e6f._CR0,0,600,450_PT0_SX600__.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/17/1.jpg",
-             "https://i.dummyjson.com/data/products/17/2.jpg",
-             "https://i.dummyjson.com/data/products/17/3.jpg",
-             "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
-          ]
+          "thumbnail":"/img17.jpg",
+          "images":[]
        },
        {
           "id":"price_1NI8gtHaY9qo5pUxO5cSK7ZF",
@@ -340,14 +246,8 @@
           "brand":"Dermive",
           "category":"razer",
           "currency": "usd",
-          "thumbnail":"https://assets2.razerzone.com/images/pnx.assets/0523a80c613c52ee42d3c0ba2bb80ac9/basilisk-ultimate-usp5-mobile.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/18/1.jpg",
-             "https://i.dummyjson.com/data/products/18/2.jpg",
-             "https://i.dummyjson.com/data/products/18/3.jpg",
-             "https://i.dummyjson.com/data/products/18/4.jpg",
-             "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
-          ]
+          "thumbnail":"/img18.jpg",
+          "images":[]
        },
        {
           "id":"price_1NI8hOHaY9qo5pUxv4YsmnpR",
@@ -360,13 +260,8 @@
           "brand":"ROREC White Rice",
           "category":"msi",
           "currency": "usd",
-          "thumbnail":"https://storage-asset.msi.com/global/picture/image/feature/desktop/TridentX/trident-x-glass-base.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/19/1.jpg",
-             "https://i.dummyjson.com/data/products/19/2.jpg",
-             "https://i.dummyjson.com/data/products/19/3.png",
-             "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
-          ]
+          "thumbnail":"/img19.jpg",
+          "images":[]
        },
        {
           "id":"price_1NI8htHaY9qo5pUx9m3DDazF",
@@ -379,14 +274,8 @@
           "brand":"Fair & Clear",
           "currency": "usd",
           "category":"msi",
-          "thumbnail":"https://storage-asset.msi.com/us/picture/feature/desktop/codex_r/kv-rgb.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/20/1.jpg",
-             "https://i.dummyjson.com/data/products/20/2.jpg",
-             "https://i.dummyjson.com/data/products/20/3.jpg",
-             "https://i.dummyjson.com/data/products/20/4.jpg",
-             "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
-          ]
+          "thumbnail":"/img20.jpg",
+          "images":[]
        },
        {
           "id":"price_1NI8iTHaY9qo5pUx54yY6KpC",
@@ -399,12 +288,8 @@
           "brand":"Saaf & Khaas",
           "category":"msi",
           "currency": "usd",
-          "thumbnail":"https://storage-asset.msi.com/global/picture/image/feature/nb/gp/GP77/gpukv.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/21/1.png",
-             "https://i.dummyjson.com/data/products/21/2.jpg",
-             "https://i.dummyjson.com/data/products/21/3.jpg"
-          ]
+          "thumbnail":"/img21.jpg",
+          "images":[]
        },
        {
           "id":"price_1NI8iuHaY9qo5pUxO176vB8d",
@@ -417,12 +302,8 @@
           "brand":"Bake Parlor Big",
           "currency": "usd",
           "category":"msi",
-          "thumbnail":"https://cdn.mwave.com.au/images/400/msi_stealth_16studio_16_240hz_qhd_laptop_i713700h_32gb_2tb_rtx4070_w11p_ac60587_62184.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/22/1.jpg",
-             "https://i.dummyjson.com/data/products/22/2.jpg",
-             "https://i.dummyjson.com/data/products/22/3.jpg"
-          ]
+          "thumbnail":"/img22.webp",
+          "images":[]
        },
        {
           "id":"price_1NI8jUHaY9qo5pUxcS9PbhkR",
@@ -435,14 +316,8 @@
           "currency": "usd",
           "brand":"Baking Food Items",
           "category":"asus",
-          "thumbnail":"https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Front_view_of_the_Moonlight_White_ROG_Zephyrus_G14_with_the_ROG_Fearless_Eye_logo_on_screen44.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/23/1.jpg",
-             "https://i.dummyjson.com/data/products/23/2.jpg",
-             "https://i.dummyjson.com/data/products/23/3.jpg",
-             "https://i.dummyjson.com/data/products/23/4.jpg",
-             "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
-          ]
+          "thumbnail":"/img23.jpg",
+          "images":[]
        },
        {
           "id":"price_1NI8l3HaY9qo5pUxDVjvOh9f",
@@ -455,14 +330,8 @@
           "stock":113,
           "brand":"fauji",
           "category":"asus",
-          "thumbnail":"https://s.yimg.com/uu/api/res/1.2/YyPE36Ivt4hIt2WMNQ96yw--~B/aD0xMjAwO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/48570f90-ccdc-11ed-9fcd-c7807faf175b.cf.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/24/1.jpg",
-             "https://i.dummyjson.com/data/products/24/2.jpg",
-             "https://i.dummyjson.com/data/products/24/3.jpg",
-             "https://i.dummyjson.com/data/products/24/4.jpg",
-             "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
-          ]
+          "thumbnail":"/img24.jpg",
+          "images":[]
        },
        {
           "id":"price_1NI8ljHaY9qo5pUxJiiaAe6v",
@@ -475,14 +344,8 @@
           "brand":"Dry Rose",
           "currency": "usd",
           "category":"asus",
-          "thumbnail":"https://cdn.mos.cms.futurecdn.net/G4rL94oN2BNUaWz3Nmt6cm.png",
-          "images":[
-             "https://i.dummyjson.com/data/products/25/1.png",
-             "https://i.dummyjson.com/data/products/25/2.jpg",
-             "https://i.dummyjson.com/data/products/25/3.png",
-             "https://i.dummyjson.com/data/products/25/4.jpg",
-             "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
-          ]
+          "thumbnail":"/img25.png",
+          "images":[]
        },
        {
           "id":"price_1NI8mkHaY9qo5pUxr3buJG84",
@@ -495,15 +358,8 @@
           "brand":"Boho Decor",
           "currency": "usd",
           "category":"asus",
-          "thumbnail":"https://www.digitaltrends.com/wp-content/uploads/2023/03/asus-rog-strix-scar-review-08.jpg?resize=1200%2C630&p=1",
-          "images":[
-             "https://i.dummyjson.com/data/products/26/1.jpg",
-             "https://i.dummyjson.com/data/products/26/2.jpg",
-             "https://i.dummyjson.com/data/products/26/3.jpg",
-             "https://i.dummyjson.com/data/products/26/4.jpg",
-             "https://i.dummyjson.com/data/products/26/5.jpg",
-             "https://i.dummyjson.com/data/products/26/thumbnail.jpg"
-          ]
+          "thumbnail":"/img26.webp",
+          "images":[]
        },
        {
           "id":"price_1NI8nHHaY9qo5pUxqcbPFYqg",
@@ -516,14 +372,8 @@
           "brand":"Microsoft Surface",
           "category":"apple",
           "currency": "usd",
-          "thumbnail":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-ipad-air-wifi-gold-2021?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1644268571040",
-          "images":[
-             "https://i.dummyjson.com/data/products/8/1.jpg",
-             "https://i.dummyjson.com/data/products/8/2.jpg",
-             "https://i.dummyjson.com/data/products/8/3.jpg",
-             "https://i.dummyjson.com/data/products/8/4.jpg",
-             "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
-          ]
+          "thumbnail":"/img27.jpg",
+          "images":[]
        },
        {
           "id":"price_1NI8npHaY9qo5pUxSIZUkXgZ",
@@ -536,14 +386,8 @@
           "brand":"LED Lights",
           "category":"asus",
           "currency": "usd",
-          "thumbnail":"https://dlcdnimgs.asus.com/websites/global/products/yt4zood85serdoij/images/bg-header-m.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/28/1.jpg",
-             "https://i.dummyjson.com/data/products/28/2.jpg",
-             "https://i.dummyjson.com/data/products/28/3.png",
-             "https://i.dummyjson.com/data/products/28/4.jpg",
-             "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
-          ]
+          "thumbnail":"/img28.jpg",
+          "images":[]
        },
        {
           "id":"price_1NI8oQHaY9qo5pUxdd6AWWhg",
@@ -556,14 +400,8 @@
           "currency": "usd", 
           "brand":"luxury palace",
           "category":"asus",
-          "thumbnail":"https://media.karousell.com/media/photos/products/2021/12/12/monitor_asus_proart_display_pa_1639316512_154fcbaf_progressive.jpg",
-          "images":[
-             "https://i.dummyjson.com/data/products/29/1.jpg",
-             "https://i.dummyjson.com/data/products/29/2.jpg",
-             "https://i.dummyjson.com/data/products/29/3.webp",
-             "https://i.dummyjson.com/data/products/29/4.webp",
-             "https://i.dummyjson.com/data/products/29/thumbnail.webp"
-          ]
+          "thumbnail":"/img29.jpg",
+          "images":[]
        }
     ],
     "total":100,

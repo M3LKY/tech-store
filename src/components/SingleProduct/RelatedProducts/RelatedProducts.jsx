@@ -1,6 +1,6 @@
 import React from "react";
 import Products from "../../Products/Products";
-import products from '../../../data/products.json'
+import {products} from '../../../data/products.js'
 
 
 const RelatedProducts = ({ categoryId, productId }) => {
